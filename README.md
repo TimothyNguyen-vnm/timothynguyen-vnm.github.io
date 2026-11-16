@@ -2,7 +2,7 @@
 
 Personal academic website of Duc Thanh (Timothy) Nguyen, Predoctoral Research Associate at the Wharton School, University of Pennsylvania.
 
-Live website: https://timothynguyen-vnm.github.io/
+Live website: https://timothyducthanhnguyen.com/
 
 ## Update the website
 
